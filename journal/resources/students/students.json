@@ -1,0 +1,289 @@
+[ {
+  "id" : 1,
+  "fullName" : "Марданов Самир",
+  "groupId" : 1,
+  "groupNumber" : "401",
+  "scores" : {
+    "Информатика и программирование" : [ {
+      "id" : 1,
+      "studentId" : 1,
+      "subjectId" : 4,
+      "score" : 5.0
+    }, {
+      "id" : 5,
+      "studentId" : 1,
+      "subjectId" : 4,
+      "score" : 5.0
+    }, {
+      "id" : 6,
+      "studentId" : 1,
+      "subjectId" : 4,
+      "score" : 5.0
+    }, {
+      "id" : 7,
+      "studentId" : 1,
+      "subjectId" : 4,
+      "score" : 4.0
+    } ],
+    "Алгебра и геометрия" : [ {
+      "id" : 2,
+      "studentId" : 1,
+      "subjectId" : 1,
+      "score" : 5.0
+    }, {
+      "id" : 30,
+      "studentId" : 1,
+      "subjectId" : 1,
+      "score" : 5.0
+    }, {
+      "id" : 31,
+      "studentId" : 1,
+      "subjectId" : 1,
+      "score" : 5.0
+    }, {
+      "id" : 32,
+      "studentId" : 1,
+      "subjectId" : 1,
+      "score" : 4.0
+    } ]
+  }
+}, {
+  "id" : 2,
+  "fullName" : "Хисматуллин Арслан",
+  "groupId" : 1,
+  "groupNumber" : "401",
+  "scores" : {
+    "Информатика и программирование" : [ {
+      "id" : 12,
+      "studentId" : 2,
+      "subjectId" : 4,
+      "score" : 5.0
+    }, {
+      "id" : 13,
+      "studentId" : 2,
+      "subjectId" : 4,
+      "score" : 5.0
+    } ],
+    "Алгебра и геометрия" : [ {
+      "id" : 33,
+      "studentId" : 2,
+      "subjectId" : 1,
+      "score" : 5.0
+    }, {
+      "id" : 34,
+      "studentId" : 2,
+      "subjectId" : 1,
+      "score" : 5.0
+    }, {
+      "id" : 35,
+      "studentId" : 2,
+      "subjectId" : 1,
+      "score" : 5.0
+    } ],
+    "Математический анализ" : [ {
+      "id" : 3,
+      "studentId" : 2,
+      "subjectId" : 3,
+      "score" : 5.0
+    } ]
+  }
+}, {
+  "id" : 3,
+  "fullName" : "Гафаров Тимур",
+  "groupId" : 1,
+  "groupNumber" : "401",
+  "scores" : {
+    "Информатика и программирование" : [ {
+      "id" : 8,
+      "studentId" : 3,
+      "subjectId" : 4,
+      "score" : 5.0
+    }, {
+      "id" : 9,
+      "studentId" : 3,
+      "subjectId" : 4,
+      "score" : 3.0
+    } ],
+    "Алгебра и геометрия" : [ {
+      "id" : 28,
+      "studentId" : 3,
+      "subjectId" : 1,
+      "score" : 4.0
+    } ]
+  }
+}, {
+  "id" : 4,
+  "fullName" : "Котельников Антон",
+  "groupId" : 1,
+  "groupNumber" : "401",
+  "scores" : {
+    "Информатика и программирование" : [ {
+      "id" : 10,
+      "studentId" : 4,
+      "subjectId" : 4,
+      "score" : 4.0
+    }, {
+      "id" : 11,
+      "studentId" : 4,
+      "subjectId" : 4,
+      "score" : 5.0
+    } ],
+    "Алгебра и геометрия" : [ {
+      "id" : 29,
+      "studentId" : 4,
+      "subjectId" : 1,
+      "score" : 5.0
+    } ]
+  }
+}, {
+  "id" : 5,
+  "fullName" : "Носов Владислав",
+  "groupId" : 2,
+  "groupNumber" : "402",
+  "scores" : {
+    "Информатика и программирование" : [ {
+      "id" : 14,
+      "studentId" : 5,
+      "subjectId" : 4,
+      "score" : 3.0
+    }, {
+      "id" : 15,
+      "studentId" : 5,
+      "subjectId" : 4,
+      "score" : 5.0
+    } ],
+    "Алгебра и геометрия" : [ {
+      "id" : 36,
+      "studentId" : 5,
+      "subjectId" : 1,
+      "score" : 4.0
+    }, {
+      "id" : 37,
+      "studentId" : 5,
+      "subjectId" : 1,
+      "score" : 4.0
+    } ]
+  }
+}, {
+  "id" : 6,
+  "fullName" : "Хуззятов Камиль",
+  "groupId" : 3,
+  "groupNumber" : "403",
+  "scores" : {
+    "Алгебра и геометрия" : [ {
+      "id" : 4,
+      "studentId" : 6,
+      "subjectId" : 1,
+      "score" : 4.0
+    }, {
+      "id" : 38,
+      "studentId" : 6,
+      "subjectId" : 1,
+      "score" : 3.0
+    } ],
+    "Информатика и программирование" : [ {
+      "id" : 18,
+      "studentId" : 6,
+      "subjectId" : 4,
+      "score" : 2.0
+    }, {
+      "id" : 19,
+      "studentId" : 6,
+      "subjectId" : 4,
+      "score" : 3.0
+    }, {
+      "id" : 20,
+      "studentId" : 6,
+      "subjectId" : 4,
+      "score" : 4.0
+    } ]
+  }
+}, {
+  "id" : 7,
+  "fullName" : "Миннегулов Айназ",
+  "groupId" : 3,
+  "groupNumber" : "403",
+  "scores" : {
+    "Информатика и программирование" : [ {
+      "id" : 16,
+      "studentId" : 7,
+      "subjectId" : 4,
+      "score" : 2.0
+    }, {
+      "id" : 17,
+      "studentId" : 7,
+      "subjectId" : 4,
+      "score" : 2.0
+    } ],
+    "Алгебра и геометрия" : [ {
+      "id" : 39,
+      "studentId" : 7,
+      "subjectId" : 1,
+      "score" : 2.0
+    }, {
+      "id" : 40,
+      "studentId" : 7,
+      "subjectId" : 1,
+      "score" : 2.0
+    } ]
+  }
+}, {
+  "id" : 8,
+  "fullName" : "Хайруллов Руслан",
+  "groupId" : 4,
+  "groupNumber" : "404",
+  "scores" : {
+    "Информатика и программирование" : [ {
+      "id" : 23,
+      "studentId" : 8,
+      "subjectId" : 4,
+      "score" : 5.0
+    }, {
+      "id" : 24,
+      "studentId" : 8,
+      "subjectId" : 4,
+      "score" : 5.0
+    }, {
+      "id" : 25,
+      "studentId" : 8,
+      "subjectId" : 4,
+      "score" : 5.0
+    }, {
+      "id" : 26,
+      "studentId" : 8,
+      "subjectId" : 4,
+      "score" : 5.0
+    }, {
+      "id" : 27,
+      "studentId" : 8,
+      "subjectId" : 4,
+      "score" : 5.0
+    } ]
+  }
+}, {
+  "id" : 9,
+  "fullName" : "Тюшин Даниил",
+  "groupId" : 4,
+  "groupNumber" : "404",
+  "scores" : {
+    "Информатика и программирование" : [ {
+      "id" : 22,
+      "studentId" : 9,
+      "subjectId" : 4,
+      "score" : 3.0
+    } ]
+  }
+}, {
+  "id" : 10,
+  "fullName" : "Кирилин Алексей",
+  "groupId" : 4,
+  "groupNumber" : "404",
+  "scores" : {
+    "Информатика и программирование" : [ {
+      "id" : 21,
+      "studentId" : 10,
+      "subjectId" : 4,
+      "score" : 5.0
+    } ]
+  }
+} ]
